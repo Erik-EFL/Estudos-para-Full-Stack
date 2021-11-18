@@ -1,7 +1,7 @@
 # Studyes
 
 <div>
-  <i width="50px" class="fi fi-rr-Book-alt"></i>
+  <img src="https://cdn.icon-icons.com/icons2/3178/PNG/512/coding_computer_pc_screen_code_icon_193925.png">
 </div>
 
 ## Neste repositório serão postados estudos sobre Software Development
