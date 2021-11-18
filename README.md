@@ -1,7 +1,7 @@
 # Studyes
 
 <div>
-  <img src="https://www.canva.com/design/DAEwDNsexq0/ON2OBt41dQPFiwaUqhexEg/view?utm_content=DAEwDNsexq0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/">
+  <i class="fi fi-rr-Book-alt"></i>
 </div>
 
 ## Neste repositório serão postados estudos sobre Software Development
