@@ -1,6 +1,10 @@
 # Studyes
 
-![image](https://user-images.githubusercontent.com/56979306/142350305-91c1ef65-3eb9-4bb8-9d29-affc598de52a.png style="width:200px heigth:200px)
+<head>
+  <title>Title</title>
+  <meta property="og:image" content="https://i.pinimg.com/474x/07/b9/fa/07b9fa961e54bac7b1b3c786a3e2306d--tobe-cat-lovers.jpg" />
+</head>
+
 
 
 ## Neste repositório serão postados estudos sobre Software Development
