@@ -3,4 +3,7 @@ O que eu vou aprender na Trybe:
 - Unix
 - Bash
 - Git
+revert-3-revert-2-trybe-skills-updates
 - JavaScript
+==========
+master
