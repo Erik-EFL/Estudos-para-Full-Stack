@@ -1,16 +1,7 @@
 # Studyes
 
 <div>
-  <header>
-  </header>
-  <style type="text/css">
-    header {
-      width: 100%;
-      heigth: 60px;
-      background-color: #2d3436;
-    }
-  </style>
-
+  <img src="https://www.canva.com/design/DAEwDNsexq0/ON2OBt41dQPFiwaUqhexEg/view?utm_content=DAEwDNsexq0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/">
 </div>
 
 ## Neste repositório serão postados estudos sobre Software Development
