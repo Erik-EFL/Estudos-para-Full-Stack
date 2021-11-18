@@ -1,8 +1,7 @@
 # Studyes
 
-<div>
-  <img width="100px" heigth="100px" src="https://cdn.icon-icons.com/icons2/3178/PNG/512/coding_computer_pc_screen_code_icon_193925.png">
-</div>
+![image](https://user-images.githubusercontent.com/56979306/142353543-7faba691-2696-4268-88a9-c4527c6576fe.png)
+
 
 ## Neste repositório serão postados estudos sobre Software Development
 
