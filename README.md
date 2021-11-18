@@ -1,7 +1,15 @@
 # Studyes
 
 <div>
-<img width="50px" heigth="20px" src="https://i.pinimg.com/474x/07/b9/fa/07b9fa961e54bac7b1b3c786a3e2306d--tobe-cat-lovers.jpg">
+  <header>
+  </header>
+  <style>
+    header {
+      width: 100%;
+      heigth: 60px;
+      background-color: #2d3436;
+    }
+  </style
 
 </div>
 
