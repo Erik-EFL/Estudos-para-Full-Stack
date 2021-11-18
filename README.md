@@ -3,13 +3,13 @@
 <div>
   <header>
   </header>
-  <style>
+  <style type="text/css">
     header {
       width: 100%;
       heigth: 60px;
       background-color: #2d3436;
     }
-  </style
+  </style>
 
 </div>
 
