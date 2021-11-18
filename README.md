@@ -1,7 +1,7 @@
 # Studyes
 
 <head>
-  <title>Title</title>
+  <title>Estudos</title>
   <meta property="og:image" content="https://i.pinimg.com/474x/07/b9/fa/07b9fa961e54bac7b1b3c786a3e2306d--tobe-cat-lovers.jpg" />
 </head>
 
