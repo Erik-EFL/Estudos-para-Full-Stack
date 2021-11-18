@@ -1,6 +1,6 @@
 # Estudos
 
-![image](https://user-images.githubusercontent.com/56979306/142353543-7faba691-2696-4268-88a9-c4527c6576fe.png)
+📖
 
 
 ## Neste repositório serão postados estudos sobre Software Development 🤓
