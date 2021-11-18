@@ -1,7 +1,7 @@
 # Studyes
 
 <div>
-  <i class="fi fi-rr-Book-alt"></i>
+  <i width="50px" class="fi fi-rr-Book-alt"></i>
 </div>
 
 ## Neste repositório serão postados estudos sobre Software Development
