@@ -1,22 +1,50 @@
-h1 , p {
-  text-align: center;
-  padding: 0px;
+/* =======> Blocos <======= */
+
+div:nth-child(3) { 
+  background: rgb(121, 70, 70); 
+}
+div:nth-child(4) { 
+  background: rgb(161, 5, 5); 
+}
+div:nth-child(5) {
+  height: 50px; 
+  background: rgb(87, 226, 6); 
+}
+div:nth-child(6) { 
+  background: rgb(66, 24, 163); 
+}
+div:nth-child(7) { 
+  background: rgb(10, 165, 165); 
 }
 
-ul li {
-  padding: 0px;
-}
-ul li a{
-  text-decoration: none;
+div:hover {
+  border: solid 3px #000;
 }
 
-.site1:hover {
-  background: #00a8ff;
-}
-.site2:hover {
-  background: #00ff22;
-}
-.site3:hover {
-  background: #ff0022;
+/* =======> Text <======= */
+
+h3 {
+  margin: 0px;
+  line-height: 32px;
 }
 
+div:nth-child(3) h3 {
+  font-style: italic;
+  color: #fff;
+}
+div:nth-child(4) h3 {
+  font-style: ;
+  color: #fff;
+}
+div:nth-child(5) h3 {
+  padding: 8px 0px;
+  font-style: italic;
+  color: rgb(0, 0, 0);
+}
+div:nth-child(6) h3 {
+  color: #fff;
+}
+div:nth-child(7) h3 {
+  font-style: italic;
+  color: rgb(0, 0, 0);
+}
