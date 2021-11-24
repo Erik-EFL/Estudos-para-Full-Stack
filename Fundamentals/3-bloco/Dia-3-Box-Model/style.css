@@ -1,50 +1,72 @@
-/* =======> Blocos <======= */
-
-div:nth-child(3) { 
-  background: rgb(121, 70, 70); 
-}
-div:nth-child(4) { 
-  background: rgb(161, 5, 5); 
-}
-div:nth-child(5) {
-  height: 50px; 
-  background: rgb(87, 226, 6); 
-}
-div:nth-child(6) { 
-  background: rgb(66, 24, 163); 
-}
-div:nth-child(7) { 
-  background: rgb(10, 165, 165); 
+/* =======> Titulos <======= */
+h1, h2 {
+  color: red;
 }
 
-div:hover {
-  border: solid 3px #000;
+h1{
+  font-size: 40px;
 }
 
-/* =======> Text <======= */
-
-h3 {
-  margin: 0px;
-  line-height: 32px;
+/* =======> Lista ordenada <======= */
+ol {
+  background: yellow;
 }
 
-div:nth-child(3) h3 {
-  font-style: italic;
-  color: #fff;
+ol li:nth-child(2n+0) {   /*Serve para referenciar numeros pares dentro de uma lista ou sequencia de linhas*/
+  color: green;
 }
-div:nth-child(4) h3 {
-  font-style: ;
-  color: #fff;
+
+ol li:nth-child(2n+1) { 
+  text-transform: uppercase;
 }
-div:nth-child(5) h3 {
-  padding: 8px 0px;
-  font-style: italic;
+
+/* =======> Listas gerais <======= */
+
+li {
+  font-size: 20px;
+}
+
+li em {   
+  font-weight: 700;
+}
+
+ul li:nth-child(-n+3)  {
+  color: blue;
+}
+
+ul li[class*="Java"] {
+  background-color: pink;
+}
+
+
+
+
+ul:nth-of-type(2) li {
+  color: black;
+  text-decoration: none;
+}
+
+ul:nth-of-type(2) li a {
+  text-decoration: none;
+}
+
+ul:nth-of-type(2) li:nth-child(1) a:hover {
+  color: orange;
+  
+}
+ul:nth-of-type(2) li:nth-child(2) a:hover {
+  color: rgb(7, 190, 7);
+  
+}
+ul:nth-of-type(2) li:nth-child(3) a:hover {
   color: rgb(0, 0, 0);
+  
 }
-div:nth-child(6) h3 {
-  color: #fff;
+ul:nth-of-type(2) li:nth-child(4) a:hover {
+  color: yellow;
+  
 }
-div:nth-child(7) h3 {
-  font-style: italic;
-  color: rgb(0, 0, 0);
+ul:nth-of-type(2) li:nth-child(5) a:hover {
+  color: green;
+  
 }
