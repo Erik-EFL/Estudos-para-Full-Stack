@@ -1,0 +1,64 @@
+/* =======> Edição dos titulos <======= */
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+/* =======> Edição das listas <======= */
+
+ul {
+  text-align: center;
+}
+
+ul li {
+  display: inline;
+}
+
+/* =======> Edição do podium <======= */
+
+section:nth-of-type(1) {
+  max-width: 800px;
+  margin: 0px auto;
+}
+
+section ul:nth-child(1) li {
+  display: inline-block;
+  margin-top: 0px;
+  margin: 0px auto;
+}
+section ul:nth-child(1) li:nth-of-type(1) {
+  display: block;
+  margin-left: auto;
+}
+
+/* =======> Edição da primeira lista <======= */
+
+.first {
+  background-color: rgb(235, 200, 84);
+  font-size: 20px;
+  height: 50px;
+  text-align: center;
+  width: 200px;
+}
+
+.second {
+  background-color: rgb(219, 219, 219);
+  font-size: 20px;
+  height: 50px;
+  text-align: center;
+  width: 300px;
+  margin-top: 90px;
+}
+
+.third {
+  background-color: rgb(170, 142, 106);
+  font-size: 20px;
+  height: 50px;
+  text-align: center;
+  width: 300px;
+}
+

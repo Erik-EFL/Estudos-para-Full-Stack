@@ -16,3 +16,19 @@ p {
 ul, p {
     background-color: rgb(190, 190, 176);
 }
+
+ul {
+    font-style: italic;
+    text-align: justify;
+    text-decoration: underline;
+}
+
+.amarelo {
+    color: yellow;
+}
+.vermelho {
+    color: red;
+}
+.marrom {
+    color: brown;
+}
