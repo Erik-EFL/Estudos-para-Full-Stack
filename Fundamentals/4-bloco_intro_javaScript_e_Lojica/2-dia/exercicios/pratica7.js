@@ -1,11 +1,13 @@
-let numbers = [5, 9, 3, 19, 70, 8, 100, 1, 35, 27];
+let numbers = [5, 3];
 
 
-let small = numbers.length // ira armazenar a informação do menos numero.
-for (var i = 0; i < numbers.length; i++) { //verifica todas posições do array
+let menor = numbers[0] // criei essa variavel inicial para que ela armazene inicialmente o tamanho do array.
 
-    if (numbers[i] < small) { //verifica qual o menos numero comparando o numero de cada posições 
-        small = numbers[i]; // acrescenta o menos numero a variavel small
+for (var i = 0; i < numbers.length; i++) { // esse loop percorre o array para descobrir quantas posições há 
+    if (numbers[i] < menor) { //basicamente uma pergunta que fazemos para o computador para que ele compare os valores que há dentro do array
+        menor = numbers[i]; // atribui a variavel inicial o menor valor existente dentro do array
     }
 }
-console.log(small);
+console.log(menor); // imprime o valor atribuido a variavel inicial
+
+
