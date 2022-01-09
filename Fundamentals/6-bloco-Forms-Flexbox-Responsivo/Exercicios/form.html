@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="form.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <form action="" method="get">
+        <fieldset>
+            <label for="nome">Nome</label>
+            <input type="text" name="nome" id="nome">
+            <br/>
+            <label for="email">E-mail</label>
+            <input type="text" name="email" id="email">
+            <br/>
+            <label for="cpf">CPF</label>
+            <input type="text" name="cpf" id="cpf">
+            <br/>
+            <label for="endereco">Endereço</label>
+            <input type="text" name="endereço" id="endereco">
+            <br/>
+            <label for="cidade">Cidade</label>
+            <input type="text" name="cidade" id="cidade">
+            <br/>
+            <label for="estado">Estado</label>
+            <input type="select" name="estado" id="estado">
+            <br/>
+            <label for="tipo">Tipo de residencia</label>
+            <input type="radio" name="tipo" value="casa" id="tipo1">
+            <label for="tipo">Casa</label>
+            <input type="radio" name="tipo" value="apartamento" id="tipo2">
+            <label for="tipo">Apartamento</label>
+        </fieldset>
+
+        <fieldset>
+            <label for="resumo">Resumo</label>
+            <textarea name="resumo" id="resumo" cols="30" rows="10"></textarea>
+            <br/>
+
+            <label for="cargo">Cargo</label>
+            <input type="text" name="cargo" id="cargo">
+            <br/>
+
+            <label for="dataInicio">Data de início</label>
+            <input type="text" name="dataInicio" id="dataInicio">
+            <br/>
+
+            <label for="descricaoCargo">Descrição do cargo</label>
+            <input type="text" name="descricaoCargo" id="descricaoCargo">
+        </fieldset>
+        <button type="submit">Enviar</button>
+    </form>
+
+    <script src="form.js"></script>
+</body>
+</html>
